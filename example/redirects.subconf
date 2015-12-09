@@ -1,0 +1,15 @@
+location ^~ /a {
+   rewrite ^/a/different/structure/4.php$ /2015/04/entry_4.html permanent;
+   rewrite ^/a/different/structure/5.php$ /2015/05/entry_5.html permanent;
+   rewrite ^/a/different/structure/6.php$ /2015/06/entry_6.html permanent;
+}
+location ^~ /my {
+   rewrite ^/my/different/structure/7.php$ /2015/07/entry_7.html permanent;
+   rewrite ^/my/different/structure/8.php$ /2015/10/entry_8.html permanent;
+   rewrite ^/my/different/structure/9.php$ /2015/12/entry_9.html permanent;
+}
+location ^~ /some {
+   rewrite ^/some/different/structure/1.php$ /2015/01/entry_1.html permanent;
+   rewrite ^/some/different/structure/2.php$ /2015/02/entry_2.html permanent;
+   rewrite ^/some/different/structure/3.php$ /2015/03/entry_3.html permanent;
+}

@@ -1,0 +1,10 @@
+url,migration_source_url
+http://example.com/2015/01/entry_1.html,http://old.com/some/different/structure/1.php
+http://example.com/2015/02/entry_2.html,http://old.com/some/different/structure/2.php
+http://example.com/2015/03/entry_3.html,http://old.com/some/different/structure/3.php
+http://example.com/2015/04/entry_4.html,http://old.com/a/different/structure/4.php
+http://example.com/2015/05/entry_5.html,http://old.com/a/different/structure/5.php
+http://example.com/2015/06/entry_6.html,http://old.com/a/different/structure/6.php
+http://example.com/2015/07/entry_7.html,http://old.com/my/different/structure/7.php
+http://example.com/2015/10/entry_8.html,http://old.com/my/different/structure/8.php
+http://example.com/2015/12/entry_9.html,http://old.com/my/different/structure/9.php
